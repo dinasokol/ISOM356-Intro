@@ -1,3 +1,5 @@
+import random, sleep
+
 print('This is an awesome idea!')
 print('Now I just have to make it')
 
